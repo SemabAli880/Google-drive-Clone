@@ -1,0 +1,19 @@
+.sidebarItems{
+    display: flex;
+    padding: 10px 0;
+    border-radius: 0 100px 100px 0;
+}
+.sidebarItems:hover{
+    background-color: rgba(80, 59, 59, 0.04);
+
+}
+.sidebarItems_arrow{
+    width: 20px;
+    margin-left: 12px;
+}
+.sidebarItems_main{
+    display: flex;
+}
+.sidebarItems_main>p{
+    margin-left: 12px;
+}
