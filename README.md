@@ -1,8 +1,11 @@
-# Getting Started with Create React App
+#Google clone project using React,redux,firebase & more 
+you can watch project here:
+https://drive-clone-60af1.web.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-**## DEMO OF APP**
+**## `DEMO OF APP`**
 <img width="1787" alt="1" src="https://user-images.githubusercontent.com/85820632/124412978-1f37fe80-dd69-11eb-9dbd-a7d664b85799.png">
+
+
 
 
 ## Available Scripts
