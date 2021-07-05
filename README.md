@@ -1,4 +1,5 @@
-#Google clone project using React,redux,firebase & more 
+#Google clone project using React,redux,firebase & More.
+
 you can watch project here:
 https://drive-clone-60af1.web.app/
 
